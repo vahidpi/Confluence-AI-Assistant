@@ -47,10 +47,6 @@ Create a .env file in the root directory with your API keys and settings (see en
 python main.py
 ```
 
-### 5. Launch the Web UI
-```bash
-streamlit run app/interface/streamlit_ui.py
-```
 
 ✅ MVP Goals
 - Crawl a selected Confluence space
