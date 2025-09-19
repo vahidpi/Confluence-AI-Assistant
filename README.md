@@ -28,7 +28,7 @@ An internal AI-powered assistant that indexes your Confluence documentation and 
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/confluence-ai-assistant.git
+git clone https://github.com/vahidpi/confluence-ai-assistant.git
 cd confluence-ai-assistant
 ```
 
